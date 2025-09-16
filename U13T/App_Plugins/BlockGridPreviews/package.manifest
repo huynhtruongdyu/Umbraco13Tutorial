@@ -1,11 +1,5 @@
 {
 	"name": "BlockGridPreviews",
-	"extensions": [
-		{
-			"type": "blockGrid.blockView",
-			"alias": "blockGrid.blockView.navigationGroup",
-			"name": "Navigation Group Preview",
-			"elementName": "navigation-group-preview"
-		}
-	]
+	"version": "1.0.0",
+	"allowPackageTelemetery": false
 }
